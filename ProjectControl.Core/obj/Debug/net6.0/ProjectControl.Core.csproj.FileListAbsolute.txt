@@ -1,0 +1,11 @@
+D:\Proyectos\ProjectControl\ProjectControl.Core\bin\Debug\net6.0\ProjectControl.Core.deps.json
+D:\Proyectos\ProjectControl\ProjectControl.Core\bin\Debug\net6.0\ProjectControl.Core.dll
+D:\Proyectos\ProjectControl\ProjectControl.Core\bin\Debug\net6.0\ProjectControl.Core.pdb
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.AssemblyInfoInputs.cache
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.AssemblyInfo.cs
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.dll
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\refint\ProjectControl.Core.dll
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.pdb
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ref\ProjectControl.Core.dll
