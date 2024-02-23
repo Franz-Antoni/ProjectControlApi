@@ -9,3 +9,4 @@ D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.
 D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\refint\ProjectControl.Core.dll
 D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.pdb
 D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ref\ProjectControl.Core.dll
+D:\Proyectos\ProjectControl\ProjectControl.Core\obj\Debug\net6.0\ProjectControl.Core.sourcelink.json

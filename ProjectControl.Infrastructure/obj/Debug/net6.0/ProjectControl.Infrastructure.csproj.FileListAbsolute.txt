@@ -9,3 +9,10 @@ D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\Proje
 D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\refint\ProjectControl.Infrastructure.dll
 D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\ProjectControl.Infrastructure.pdb
 D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\ref\ProjectControl.Infrastructure.dll
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\bin\Debug\net6.0\ProjectControl.Infrastructure.runtimeconfig.json
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\ProjectControl.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\ProjectControl.Infrastructure.sourcelink.json
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\ProjectControl.Infrastructure.genruntimeconfig.cache
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\bin\Debug\net6.0\ProjectControl.Core.dll
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\bin\Debug\net6.0\ProjectControl.Core.pdb
+D:\Proyectos\ProjectControl\ProjectControl.Infrastructure\obj\Debug\net6.0\ProjectC.64F9117B.Up2Date

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectControl.Core", "..\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectControl.Infrastructure", "..\ProjectControl.Infrastructure\ProjectControl.Infrastructure.csproj", "{D78C9DD2-C3D4-46B5-AECF-6F1F6690044D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectControl.UnitTest", "..\ProjectControl.UnitTest\ProjectControl.UnitTest.csproj", "{C12907D9-5429-42BF-B9A1-E7E59361BE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectControl.IntegrationTest", "..\ProjectControl.IntegrationTest\ProjectControl.IntegrationTest.csproj", "{BE4DCCC9-1FCA-4C96-AED5-9EE8887E042B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D78C9DD2-C3D4-46B5-AECF-6F1F6690044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D78C9DD2-C3D4-46B5-AECF-6F1F6690044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D78C9DD2-C3D4-46B5-AECF-6F1F6690044D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12907D9-5429-42BF-B9A1-E7E59361BE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12907D9-5429-42BF-B9A1-E7E59361BE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12907D9-5429-42BF-B9A1-E7E59361BE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12907D9-5429-42BF-B9A1-E7E59361BE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4DCCC9-1FCA-4C96-AED5-9EE8887E042B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4DCCC9-1FCA-4C96-AED5-9EE8887E042B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4DCCC9-1FCA-4C96-AED5-9EE8887E042B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4DCCC9-1FCA-4C96-AED5-9EE8887E042B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
