@@ -8,6 +8,7 @@ namespace ProjectControl.Core.Entities
         public int Id { get; set; }
         public int UserId { get; set; }
         public int ProjectId { get; set; }
+        public bool UserType { get; set; }
         public bool Status { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime? ModificationDate { get; set; }
